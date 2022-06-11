@@ -1,0 +1,8 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    font-weight: bolder;
+    width:100%;
+}
